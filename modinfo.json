@@ -1,0 +1,16 @@
+{
+    "authors": [
+        "AdryanaStahr",
+		"Aramil",
+        "Stahl",
+        "ZigTheHedge"
+    ],
+    "dependencies": {
+        "game": "1.19.1"
+    },
+    "description": "Simply the trapdoors are ladders component from Stahl's work in Still Necessaries.",
+    "modid": "trapdoorsareladders",
+    "name": "TrapDoorsAreLadders",
+    "type": "content",
+    "version": "1.0.0"
+}
